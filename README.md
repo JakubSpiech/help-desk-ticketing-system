@@ -27,4 +27,4 @@ A basic help desk ticketing system designed to streamline issue tracking and res
 ## **Installation Instructions**
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/YourUsername/help-desk-ticketing-system.git
+   git clone https://github.com/JakubSpiech/help-desk-ticketing-system.git
